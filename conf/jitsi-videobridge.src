@@ -1,6 +1,7 @@
-SOURCE_URL=https://download.jitsi.org/jitsi-videobridge/linux/jitsi-videobridge-linux-x64-1130.zip
-SOURCE_SUM=792db05e61e36d8811e7b132581b95b1022a8bf5689189e6206bc05888b54ec4
+SOURCE_URL=https://download.jitsi.org/stable/jitsi-videobridge2_2.1-202-g5f9377b9-1_all.deb
+SOURCE_SUM=0afce2a9c591e72a69c28665f8bf48d5e9d3a4e253e6be8737b1913f4d25b29b
 SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=zip
+SOURCE_FORMAT=deb
 SOURCE_IN_SUBDIR=true
-SOURCE_FILENAME=
+SOURCE_FILENAME=jitsi-videobridge.deb
+SOURCE_EXTRACT=false
